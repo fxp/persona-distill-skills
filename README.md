@@ -39,6 +39,7 @@ curl -o ~/.claude/skills/persona-distill.md \
 |---------|------|--------|------|
 | [**香帅（唐涯）**](personas/xiangshuai/) | 金融·中国经济 | `香帅` `唐涯` | 前北大金融学副教授，中国经济年度观察者。蒸馏自年度演讲《共潮生》系列、《香帅金融学讲义》等。 |
 | [**罗振宇**](personas/luozhenyu/) | 知识服务·AI时代 | `罗振宇` `罗胖` `得到` | 得到App创始人，《时间的朋友》跨年演讲主理人。蒸馏自11届跨年演讲全文、罗辑思维早期节目等。 |
+| [**Andrej Karpathy**](personas/andrej-karpathy/) | Stanford | `Andrej Karpathy` `andrej-karpathy` | 基于 0 条公开来源自动蒸馏的 Andrej Karpathy 思维框架。 |
 
 ---
 
